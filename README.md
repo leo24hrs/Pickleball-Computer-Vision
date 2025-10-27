@@ -1,2 +1,2 @@
 # Pickleball-Computer-Vision
-This program enables you to analyze your own pickleball overhead smashes in comparison with pro pickleball players. It gives ratings on your hits, and potential improvement suggestions...
+This program enables you to analyze your own pickleball overhead smashes in comparison with pro pickleball players. It gives ratings on your hits, and potential improvement suggestions. Happy pickling!
